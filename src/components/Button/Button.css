@@ -1,0 +1,21 @@
+.button {
+    width: 5rem;
+    height: 5rem;
+    font-size: 2rem;
+    background-color: #D8D8D8;
+    border: 1px solid #979797;
+    color: #000000;
+}
+
+.accent {
+    background-color: #B15E5E;
+    color: #FFFFFF;
+}
+
+.widthThree {
+    width: 15rem;
+}
+
+.disabled {
+    color: #979797;
+}

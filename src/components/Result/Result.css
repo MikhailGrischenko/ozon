@@ -1,0 +1,31 @@
+.body {
+    height: 5rem;
+    text-align: right;
+    overflow: hidden;
+    font-size: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 0.5rem;
+}
+
+.prefix {
+    padding-right: 0.5rem;
+}
+
+.prefixHidden {
+    display: none;
+}
+
+.spinner {
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center right;
+    background-image: url('../../assets/spinner.jpg');
+}
+
+.spinnerHidden {
+    display: none;
+}

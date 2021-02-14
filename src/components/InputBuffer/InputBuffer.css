@@ -1,0 +1,25 @@
+.buffer {
+    height: 5rem;
+    font-size: 2rem;
+    text-align: right;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin: 6.5rem 0.5rem 0.5rem 0.5rem;
+}
+
+.bufferItem {
+    padding: 0 0.2rem;
+}
+
+.bufferResult {
+    height: 5rem;
+    text-align: right;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 0.5rem;
+    font-size: 1.5rem;
+}
